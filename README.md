@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3.7+-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
-<a href='https://dashuaige2025.lanzouu.com/iV9tP3n1fb3c'>![download](https://img.shields.io/badge/download-blue.svg)</a>
+<a href='https://dashuaige2025.lanzouu.com/iV9tP3n1fb3c'>![download](https://img.shields.io/badge/download%20%7C%20last-exe-blue.svg)</a>
 
 一个功能强大、界面现代的自动连点器，支持鼠标和键盘自动化操作。
 
